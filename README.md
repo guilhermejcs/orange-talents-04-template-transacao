@@ -8,6 +8,8 @@
 
 ## Setup do Projeto - Transação
 
+### Tag: v00
+
 ### Objetivo
 
 Sabemos que está ansioso(a) para começar a codificar, porém antes precisamos preparar nosso ambiente, portanto esse será nosso objetivo nessa tarefa.
