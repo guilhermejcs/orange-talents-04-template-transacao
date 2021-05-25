@@ -10,4 +10,5 @@ public class ListenerDeTransacao {
     public void ouvir(Transacao transacao) {
         System.out.println(transacao.toString());
     }
+
 }
